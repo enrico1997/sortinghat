@@ -2,84 +2,84 @@
 {
 "id": 1,
 "name": "Albus Dumbledore",
-"image": "../AlbusDumbledore.jpg",
+"image": "../images/AlbusDumbledore.jpg",
 "occupation": "Fry Cook",
 "location": "A Pineapple Under the Sea"
 },
 {
 "id": 2,
 "name": "Bellatrix Lestrange",
-"image": "../BellatrixLestrange.jpg",
+"image": "../images/BellatrixLestrange.jpg",
 "occupation": "Restaurant Owner",
 "location": "A Giant Anchor"
 },
 {
 "id": 3,
 "name": "Cedric Diggory",
-"image": "../CedricDiggory.jpg",
+"image": "../images/CedricDiggory.jpg",
 "occupation": "Cashier",
 "location": "An Easter Island Head"
 },
 {
 "id": 4,
 "name": "Cho Chang",
-"image": "../ChoChang.jpg",
+"image": "../images/ChoChang.jpg",
 "occupation": "Boy Genius",
 "location": "A Secret Laboratory"
 },
 {
 "id": 5,
 "name": "Dolores Umbridge",
-"image": "../DoloresUmbridge.jpg",
+"image": "../images/DoloresUmbridge.jpg",
 "occupation": "A Cowardly Dog",
 "location": "Nowhere, Kansas"
 },
 {
 "id": 6,
 "name": "Filius Flitwick",
-"image": "../FiliusFlitwick.jpg",
+"image": "../images/FiliusFlitwick.jpg",
 "occupation": "Student",
 "location": "Bluffington"
 },
 {
 "id": 7,
 "name": "Minerva McGonagall",
-"image": "../MinervaMcGonagall.jpg",
+"image": "../images/MinervaMcGonagall.jpg",
 "occupation": "Looney Toon",
 "location": "A Rabbit Burrow"
 },
 {
 "id": 8,
 "name": "Harry Potter",
-"image": "../HarryPotter.jpg",
+"image": "../images/HarryPotter.jpg",
 "occupation": "Ladies Man",
 "location": "Aron City"
 },
 {
 "id": 9,
 "name": "Hermione Granger",
-"image": "../HermioneGranger.jpg",
+"image": "../images/HermioneGranger.jpg",
 "occupation": "Adventurer",
 "location": "California"
 },
 {
 "id": 10,
 "name": "Lucius Malfoy",
-"image": "../LuciusMalfoy.jpg",
+"image": "../images/LuciusMalfoy.jpg",
 "occupation": "Cashier",
 "location": "O-Town, California"
 },
 {
 "id": 11,
 "name": "Luna Lovegood",
-"image": "../LunaLovegood.jpg",
+"image": "../images/LunaLovegood.jpg",
 "occupation": "Superhero",
 "location": "Earth"
 },
 {
 "id": 12,
 "name": "Peter Pettigrew",
-"image": "../PeterPettigrew.jpg",
+"image": "../images/PeterPettigrew.jpg",
 "occupation": "Ahhhh! A Real Monster!",
 "location": "Under a City Dump"
 }
