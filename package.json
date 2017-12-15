@@ -2,7 +2,7 @@
   "name": "sortinghat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://enrico1997.github.io/sortinghat",
+  "homepage": "https://enrico1997.github.io/sortinghat/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
