@@ -2,7 +2,7 @@
     background-color: #2c323c;
     background-image: url(./hogwarts.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 150%;
+    background-size: 100% auto;
     color: #fff;
     min-height: 400px;
     padding: 180px 20px;

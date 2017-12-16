@@ -2,84 +2,84 @@
 {
 "id": 1,
 "name": "Albus Dumbledore",
-"image": "../images/AlbusDumbledore.jpg",
+"image": "https://images.pottermore.com/bxd3o8b291gf/iT35lw9b44KCykiGUqG2E/7bcfc17dab5db86364005769f1932fd8/Pottermore_CharacterPortraits_Dumbledore_Colour_05JH.jpg",
 "occupation": "Fry Cook",
 "location": "A Pineapple Under the Sea"
 },
 {
 "id": 2,
 "name": "Bellatrix Lestrange",
-"image": "../images/BellatrixLestrange.jpg",
+"image": "https://images.pottermore.com/bxd3o8b291gf/3hTdm6oOmAY8qs8YqCmAQq/2f585d9f84a4f5ba5a760cd7b89e908f/BellatrixLestrange_WB_F5_BellatrixLestrangeCharacterIllustration_V1_Illust_080615_Port.jpg",
 "occupation": "Restaurant Owner",
 "location": "A Giant Anchor"
 },
 {
 "id": 3,
 "name": "Cedric Diggory",
-"image": "../images/CedricDiggory.jpg",
+"image": "https://images.pottermore.com/bxd3o8b291gf/1uZurZSTWwcC6Ww8UcQ8ws/e3ce3b91e3aa2a86ce8aaed542d62f98/CedricDiggory_WB_F4_CedricDiggoryWithHandsInPockets_Promo_080615_Port.jpg",
 "occupation": "Cashier",
 "location": "An Easter Island Head"
 },
 {
 "id": 4,
 "name": "Cho Chang",
-"image": "../images/ChoChang.jpg",
+"image": "https://images.pottermore.com/bxd3o8b291gf/4PbTuJ9S2QoEwycW4gs4Mg/21f94bfe4081438a9bc3c159c2831b5a/ChoChang_WB_F5_ChoChangPointingWand_Promo_080615_Port.jpg",
 "occupation": "Boy Genius",
 "location": "A Secret Laboratory"
 },
 {
 "id": 5,
 "name": "Dolores Umbridge",
-"image": "../images/DoloresUmbridge.jpg",
+"image": "https://images.pottermore.com/bxd3o8b291gf/1VquuiANZeIagEOUAOOqaI/07c7eba44637c59eb8281e45dfbc868c/DoloresUmbridge_WB_F5_DoloresUmbridgeCharacterIllustration_V4_Illust_080615_Port.tif.jpg",
 "occupation": "A Cowardly Dog",
 "location": "Nowhere, Kansas"
 },
 {
 "id": 6,
-"name": "Filius Flitwick",
-"image": "../images/FiliusFlitwick.jpg",
+"name": "Rubeus Hagrid",
+"image": "https://images.pottermore.com/bxd3o8b291gf/3m1LJzKg4UsWmuuCACkyCM/81e5e71a3f003ae2444fbabb6109f279/Hagrid_-_Jim_Kay_1_.jpg",
 "occupation": "Student",
 "location": "Bluffington"
 },
 {
 "id": 7,
 "name": "Minerva McGonagall",
-"image": "../images/MinervaMcGonagall.jpg",
+"image": "https://images.pottermore.com/bxd3o8b291gf/3cXX1Bx4JiC062mYKk26eS/642fc48d6f4c4be8dd0479b6ab1785ea/MinervaMcGonagall_WB_F6_McGonagallHoldingHat_Still_080615_Port.jpg",
 "occupation": "Looney Toon",
 "location": "A Rabbit Burrow"
 },
 {
 "id": 8,
 "name": "Harry Potter",
-"image": "../images/HarryPotter.jpg",
+"image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/20/8/enhanced/webdr01/original-grid-image-26136-1448027398-1.jpg",
 "occupation": "Ladies Man",
 "location": "Aron City"
 },
 {
 "id": 9,
 "name": "Hermione Granger",
-"image": "../images/HermioneGranger.jpg",
+"image": "https://wherethedogstarrages.files.wordpress.com/2015/03/hermione-granger-hermione-granger-28099937-960-1280.jpg",
 "occupation": "Adventurer",
 "location": "California"
 },
 {
 "id": 10,
 "name": "Lucius Malfoy",
-"image": "../images/LuciusMalfoy.jpg",
+"image": "https://images.pottermore.com/bxd3o8b291gf/3ix7bMj0n6YyUMQmqCWKgY/9c24d1af9b1205e2bac60b0b025e12c8/LuciusMalfoy_WB_F2_LuciusMalfoyMidshot_V1_Promo_080615_Port.jpg",
 "occupation": "Cashier",
 "location": "O-Town, California"
 },
 {
 "id": 11,
 "name": "Luna Lovegood",
-"image": "../images/LunaLovegood.jpg",
+"image": "https://images.pottermore.com/bxd3o8b291gf/7bIzGzsYTYwg4q4oUamIQC/26f2e532b0ea6a6e9c3710af4d24385a/LunaLovegood_WB_F6_LunaLovegoodQuibblerFullLengthPromoShot_Promo_080615_Port.jpg",
 "occupation": "Superhero",
 "location": "Earth"
 },
 {
 "id": 12,
-"name": "Peter Pettigrew",
-"image": "../images/PeterPettigrew.jpg",
+"name": "Pomona Sprout",
+"image": "https://images.pottermore.com/bxd3o8b291gf/6XPsCMy3sIqUcE8kgGEa80/bacb0ef3c39f257298ea1cf3d616cc77/PomonaSprout_WB_F1_PomonaSproutCharacterIllustration_Illust_080615_Port.jpg",
 "occupation": "Ahhhh! A Real Monster!",
 "location": "Under a City Dump"
 }

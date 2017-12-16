@@ -7,8 +7,6 @@ import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import friends from "./friends.json";
 
-import one from "./images/AlbusDumbledore.jpg"
-
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {

@@ -1,23 +1,28 @@
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height:30px;
+    animation: App-logo-spin infinite 20s linear;
+    height: 40px;
 }
 
 .App-title {
-  font-size: 2em;
-  font-family: HARRYP__;
+    font-size: 2em;
+    font-family: HARRYP__;
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 @font-face {
-  font-family: HARRYP__;
-  src: url(HARRYP__.TTF);
+    font-family: HARRYP__;
+    src: url(HARRYP__.TTF);
 }
 
 footer {
-	background: black;
+    padding-left: 20px;
+    background: #5133a4;
 }
