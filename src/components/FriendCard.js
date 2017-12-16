@@ -15,7 +15,7 @@ import "../styles/Section.css";
         </ul>
       </div>
       <span onClick={() => props.removeFriend(props.id)} className="remove">
-        𝘅
+        ✔
       </span>
     </div>
   );

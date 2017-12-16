@@ -8,7 +8,7 @@ const Navbar = () => (
   <nav className="navbar">
   	<ul>
 		<li>{brand}</li>
-		<li>Click an image to begin!</li>
+		<li>Click on the ✔ of an image to begin</li>
 		<li> Score: 0 | Top Score: 0</li>
 	</ul>
   </nav>
