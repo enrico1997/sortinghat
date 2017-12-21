@@ -4,6 +4,8 @@
 
 For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
 
+My game can be played on https://enrico1997.github.io/sortinghat/
+
 ### Instructions
 
 1. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
