@@ -4,12 +4,12 @@ let brand = <a href='/'>Sorting Hat Game</a>;
 
 // By importing the Navbar.css file, it is added to the DOM whenever this component loads
 
-const Navbar = () => (
+const Navbar = props => (
   <nav className="navbar">
   	<ul>
 		<li>{brand}</li>
-		<li>Click on the ✔ of an image to begin</li>
-		<li> Score: 0 | Top Score: 0</li>
+		<li>Click on an image to begin</li>
+		<li>Score: {props.score} | Top Score: {props.bestScore}</li>
 	</ul>
   </nav>
 );

@@ -3,9 +3,9 @@ import "../styles/Section.css";
 
 // By importing the Section.css file, it is added to the DOM whenever this component loads
   const FriendCard = props => (
-    <div className="card">
+    <div className="card" onClick={props.friendClick}>
       <div className="img-container">
-        <img alt={props.name} src={props.image} />
+        <img alt={props.id} src={props.image} />
       </div>
       <div className="content">
         <ul>
@@ -14,9 +14,6 @@ import "../styles/Section.css";
           </li>
         </ul>
       </div>
-      <span onClick={() => props.removeFriend(props.id)} className="remove">
-        ✔
-      </span>
     </div>
   );
 
